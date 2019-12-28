@@ -1,0 +1,12 @@
+<OverlayData>
+    <MarkerCategory name="Test">
+        <MarkerCategory name="Separator" IsSeparator="1">
+        </MarkerCategory>
+        <MarkerCategory name="A1" DisplayName="None" fadeFar="2500" fadeNear="2250" iconSize="0.5"/>
+        <MarkerCategory name="B1" DisplayName="def" fadeFar="2500" fadeNear="2250" iconSize="0.5" defaultToggle="0"/>
+        <MarkerCategory name="C1" DisplayName="abc-2" fadeFar="2500" fadeNear="2250" iconSize="0.5" defaultToggle="0"/>
+    </MarkerCategory>
+    <POIs>
+        <POI MapID="1337" xpos="1" ypos="2" zpos="3" GUID="0" type="Test.A1" rotate-z="30"/>
+    </POIs>
+</OverlayData>
